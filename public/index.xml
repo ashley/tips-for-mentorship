@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mentorship</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mentorship</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Mar 2018 14:39:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips for Mentees</title>
+      <link>http://example.org/posts/mentees/</link>
+      <pubDate>Sat, 24 Mar 2018 14:39:40 -0400</pubDate>
+      
+      <guid>http://example.org/posts/mentees/</guid>
+      <description>What does it really mean to be a mentee? Does this mean you have to meet with your mentor consistently? What kind of questions can you ask your mentor? These tips and suggestions are here to assure you of any stress you may have in a mentorship. You don&amp;rsquo;t need to take all of these suggestions, but instead, they should help you figure out what you may want from your mentorship to meet your goals in school and in tech.</description>
+    </item>
+    
+    <item>
+      <title>Tips for Mentors</title>
+      <link>http://example.org/posts/mentors/</link>
+      <pubDate>Sat, 24 Mar 2018 14:39:35 -0400</pubDate>
+      
+      <guid>http://example.org/posts/mentors/</guid>
+      <description>One of the best ways to help someone is to share your experience with them. Whether you&amp;rsquo;ve had your own mentor before or you&amp;rsquo;re doing this for the first time, it goes a long way to help someone navigate their college experience and the start of their career. Even though your role as a mentor is to advise your mentee(s), you can also reflect on your mentee(s)&amp;rsquo; experience and learn from them!</description>
+    </item>
+    
+  </channel>
+</rss>
