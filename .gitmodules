@@ -1,3 +1,6 @@
 [submodule "themes/kraiklyn"]
 	path = themes/kraiklyn
 	url = https://github.com/jsnjack/kraiklyn
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

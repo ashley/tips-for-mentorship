@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://tips-for-mentorship.firebaseapp.com/"
 languageCode = "en-us"
 title = "Mentorship"
 theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
