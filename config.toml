@@ -1,8 +1,12 @@
 baseURL = "https://tips-for-mentorship.firebaseapp.com/"
 languageCode = "en-us"
-title = "Mentorship"
+title = "Guide to College Tech Mentorship"
 theme = "kraiklyn"
 
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
+
+[params]
+footer = "@msashleychen"
+footerlink = "https://www.twitter.com/msashleychen"
 
